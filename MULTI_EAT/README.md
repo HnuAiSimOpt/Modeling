@@ -12,3 +12,5 @@ predict(X)  预测数据
 
 训练之后模型自动保存
 
+  - H Wei, X Wang, Z Wen, et al. An ensemble-adaptive tree-based chain framework for multi-target regression problems [J]. Information Sciences, 2024, 653: 119769. https://doi.org/10.1016/j.ins.2023.119769
+
